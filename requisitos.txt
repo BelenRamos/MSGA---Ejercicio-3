@@ -1,0 +1,20 @@
+Requisito 1: Gestión de Clientes
+Descripción: El sistema debe permitir la creación, modificación y eliminación de perfiles de clientes.
+
+Requisito 2: Gestión de Ventas
+Descripción: El sistema debe permitir la creación de pedidos de venta y la generación de facturas.
+
+Requisito 3: Integración con CRM
+Descripción: El sistema debe integrarse con el módulo de CRM para gestionar oportunidades de venta y seguimiento de clientes.
+
+Requisito 4: Generación de Reportes
+Descripción: El sistema debe generar reportes de ventas, clientes y productos.
+
+Requisito 5: Acceso Multinivel
+Descripción: El sistema debe permitir diferentes niveles de acceso para usuarios (administrador, vendedor, etc.).
+
+Requisito 6: Notificaciones Automáticas
+Descripción: El sistema debe enviar notificaciones por correo electrónico a los usuarios sobre eventos importantes (por ejemplo, nuevos pedidos).
+
+Requisito 7: Personalización de Productos
+Descripción: El sistema debe permitir a los usuarios personalizar los productos en el momento de la compra.
